@@ -1,8 +1,6 @@
-# qianshou.app 🌏 全平台统一客户端
+# qianshou.app 🌏
 
-qianshou.app (伸手.app) 是 local-agent-relay 的官方跨平台客户端 📱
-
-qianshou.app is the official cross-platform client for local-agent-relay 📱
+qianshou.app 是 local-agent-relay 的官方跨平台客户端 📱
 
 qianshou.app es el cliente oficial multiplataforma para local-agent-relay 📱
 
@@ -10,63 +8,53 @@ qianshou.app ni mteja rasmi wa mfumo wa vitanzi kwa local-agent-relay 📱
 
 支持 iOS 🍎 Android 🤖 Windows 🪟 Linux 🐧 macOS 🇺🇸
 
-Supports iOS, Android, Windows, Linux, macOS 🍎🤖🪟🐧🇺🇸
+Supports iOS, Android, Windows, Linux and macOS 🍎🤖🪟🐧🇺🇸
 
-Soporta iOS, Android, Windows, Linux, macOS 🍎🤖🪟🐧🇺🇸
+Soporta iOS, Android, Windows, Linux y macOS 🍎🤖🪟🐧🇺🇸
 
-Inasaidia iOS, Android, Windows, Linux, macOS 🍎🤖🪟🐧🇺🇸
+Inasaidia iOS, Android, Windows, Linux na macOS 🍎🤖🪟🐧🇺🇸
 
-双模设计 🧠 → 脑 (管理) + 手 (执行) 🦾
+双模设计：脑（管理）+ 手（执行）🧠🦾
 
-Dual-mode design: brain (management) + hand (execution) 🧠🦾
+Dual-mode design: brain (management) and hand (execution) 🧠🦾
 
-Diseño de modo dual: cerebro (gestión) + mano (ejecución) 🧠🦾
+Diseño de modo dual: cerebro (gestión) y mano (ejecución) 🧠🦾
 
-Ubuni wa hali mbili: ubongo (usimamizi) + mkono (utekelezaji) 🧠🦾
+Ubuni wa hali mbili: ubongo (usimamizi) na mkono (utekelezaji) 🧠🦾
 
 Controller 控制模块 🖥️ 🇩🇪
 
-节点列表 📋 实时日志 📊 任务下发 📤
-
 Node list, real-time logs, task dispatch 📋📊📤
 
-Lista de nodos, logs en tiempo real, envío de tareas 📋📊📤
+Lista de nodos, logs en tiempo real y envío de tareas 📋📊📤
 
-Orodha ya nodes, kumbukumbu za muda halisi, utumaji wa kazi 📋📊📤
+Orodha ya nodes, kumbukumbu za muda halisi na utumaji wa kazi 📋📊📤
 
 Agent Core 执行模块 ⚙️ 🇧🇷
 
-WSS 连接 🔗 Token 认证 🔐 工具调用 🛠️
+WSS connection, token authentication and tool invocation 🔗🔐🛠️
 
-WSS connection, token authentication, tool invocation 🔗🔐🛠️
+Conexión WSS, autenticación de token e invocación de herramientas 🔗🔐🛠️
 
-Conexión WSS, autenticación de token, invocación de herramientas 🔗🔐🛠️
-
-Muunganisho wa WSS, uthibitishaji wa token, uchezaji wa zana 🔗🔐🛠️
+Muunganisho wa WSS, uthibitishaji wa token na uchezaji wa zana 🔗🔐🛠️
 
 配对 🤝 🇨🇳
 
-扫码 📱 手动 ⌨️
+QR scan and manual input 📱⌨️
 
-QR scan, manual input 📱⌨️
+Escaneo QR y entrada manual 📱⌨️
 
-Escaneo QR, entrada manual 📱⌨️
+Kuchagua QR na ingizo ya mkono 📱⌨️
 
-Kuchagua QR, ingizo ya mkono 📱⌨️
+技术栈 🛠️ 🇯🇵
 
-技术栈 🛠️
+Flutter plus web_socket_channel and Riverpod 🇯🇵
 
-Tech stack 🛠️
+Flutter más web_socket_channel y Riverpod 🇯🇵
 
-Pila tecnológica 🛠️
-
-Seti ya teknolojia 🛠️
-
-Flutter + web_socket_channel + Riverpod 🇯🇵
+Flutter pamoja na web_socket_channel na Riverpod 🇯🇵
 
 快速开始 🚀
-
-Quick start 🚀
 
 Inicio rápido 🚀
 
@@ -81,26 +69,34 @@ flutter run
 
 结构 📂 🇰🇷
 
-lib/
-├── core/
-├── features/
-├── shared/
-└── main.dart
+lib directory with core, features, shared and main.dart 📂
+
+Directorio lib con core, features, shared y main.dart 📂
+
+Faili ya lib na core, features, shared na main.dart 📂
 
 移动端适配 📱 🇮🇳
 
-iOS → Shortcuts API 🍎 Android → Shell 执行 🤖
+iOS uses Shortcuts API, Android uses Shell execution 🍎🤖
 
-iOS → Shortcuts API, Android → Shell execution 🍎🤖
+iOS usa API de atajos, Android usa ejecución de shell 🍎🤖
 
-iOS → API de atajos, Android → Ejecución de shell 🍎🤖
-
-iOS → Shortcuts API, Android → Utekelezaji wa shell 🍎🤖
+iOS inatumia Shortcuts API, Android inatumia utekelezaji wa shell 🍎🤖
 
 许可证 📄 🇩🇰
 
-MIT © 2024 🇳🇱
+MIT License two thousand twenty-four 🇳🇱
+
+Licencia MIT dos mil veinticuatro 🇳🇱
+
+Leseni ya MIT mwaka elfu mbili ishirini na mbili 🇳🇱
 
 联系 📧 🇸🇪
 
-Issues: https://github.com/cokeisnotbest/qianshou.app/issues 🇵🇱
+Contact email and GitHub Issues 📧
+
+Correo de contacto y Issues en GitHub 📧
+
+Barua pepe na Issues kwenye GitHub 📧
+
+https://github.com/cokeisnotbest/qianshou.app/issues 🇵🇱
