@@ -1,159 +1,49 @@
-# qianshou.app 🌏
+# qianshou.app
 
-qianshou.app 是官方跨平台客户端
+qianshou.app é o cliente oficial multiplataforma
 
-qianshou.app есть официальный кроссплатформенный клиент
+Підтримує iOS Android Windows Linux macOS
 
-qianshou.app es el cliente oficial multiplataforma
+Ontwerp met twee modi: Controller en Agent Core
 
-qianshou.app 支持 iOS 和 Android 系统
+Controller listet verbundene Knoten auf
 
-qianshou.app поддерживает iOS и Android
+Controller overvåker sanntidslogger
 
-qianshou.app soporta sistemas iOS y Android
+Controller dispatches tasks to agents
 
-也支持 Windows Linux macOS
-
-Also supports Windows Linux macOS
-
-También admite Windows Linux macOS
-
-双模设计包含 Controller
-
-Двухрежимный дизайн включает Controller
-
-Diseño de modo dual incluye Controller
-
-Controller 可以列出节点
-
-Controller может перечислять узлы
-
-Controller puede enumerar nodos
-
-Controller 能监控实时日志
-
-Controller отслеживает логи в реальном времени
-
-Controller monitorea logs en tiempo real
-
-Controller 下发任务
-
-Controller отправляет задачи
-
-Controller despacha tareas
-
-Agent Core 是执行模块
-
-Agent Core есть модуль выполнения
-
-Agent Core es el módulo de ejecución
-
-Agent Core 建立 WSS 连接
-
-Agent Core устанавливает WSS соединение
+Agent Core handter utførelse
 
 Agent Core establece conexiones WSS
 
-Agent Core 验证 Token
+Agent Core doğrular kimlik doğrulama belirteçleri
 
-Agent Core проверяет токен
+Agent Core wykazuje wywołania narzędzi
 
-Agent Core valida tokens
+QR kod tarama ile hızlı eşleştirme
 
-Agent Core 执行工具调用
+Thủ công nhập kết nối cũng được hỗ trợ
 
-Agent Core выполняет вызовы инструментов
+Ingebouwd met Flutter framework
 
-Agent Core realiza invocaciones de herramientas
+web_socket_channel beheert communicatie
 
-扫码配对功能
+Riverpod quản lý trạng thái ứng dụng
 
-Функция сканирования QR для сопряжения
+iOS integroi Shortcuts API:n
 
-Función de emparejamiento por escaneo QR
+Android thực thi lệnh shell
 
-手动输入也支持
+Prosjektstruktur i lib-katalogen
 
-Ручной ввод также поддерживается
+Core-logik resides in core folder
 
-Entrada manual también admitida
+Feature-moduler in features-directory
 
-Flutter 是主要框架
+Compartidos componentes en carpeta shared
 
-Flutter есть основной фреймворк
+Toegangspunt is main.dart
 
-Flutter es el marco principal
+MIT Lisansı © 2024
 
-web_socket_channel 处理通信
-
-web_socket_channel обрабатывает связь
-
-web_socket_channel maneja la comunicación
-
-Riverpod 管理状态
-
-Riverpod управляет состоянием
-
-Riverpod gestiona el estado
-
-iOS 集成 Shortcuts API
-
-iOS интегрирует Shortcuts API
-
-iOS integra Shortcuts API
-
-Android 执行 Shell 命令
-
-Android выполняет команды Shell
-
-Android ejecuta comandos de shell
-
-项目结构在 lib 目录
-
-Структура проекта в директории lib
-
-Estructura del proyecto en directorio lib
-
-核心代码在 core 文件夹
-
-Основной код в папке core
-
-Código central en carpeta core
-
-功能模块在 features
-
-Функциональные модули в features
-
-Módulos de funciones en features
-
-共享组件在 shared
-
-Общие компоненты в shared
-
-Componentes compartidos en shared
-
-入口文件是 main.dart
-
-Входной файл main.dart
-
-Archivo de entrada main.dart
-
-许可证是 MIT
-
-Лицензия MIT
-
-Licencia MIT
-
-二零二四年发布
-
-Выпущено в 2024 году
-
-Publicado en 2024
-
-有问题去 GitHub
-
-Вопросы на GitHub
-
-Preguntas en GitHub
-
-https://github.com/cokeisnotbest/qianshou.app/issues
+问题反馈: https://github.com/cokeisnotbest/qianshou.app/issues
