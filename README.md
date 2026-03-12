@@ -1,159 +1,159 @@
 # qianshou.app 🌏
 
-qianshou.app 是官方跨平台客户端 📱
+qianshou.app 是官方跨平台客户端 📱 (Lemerig · 2 speakers)
 
-qianshou.app es el cliente oficial multiplataforma 📱
+qianshou.app есть официальный кроссплатформенный клиент 📱 (Ter Sami · 2 speakers)
 
-qianshou.app ni mteja rasmi wa vitanzi 🧭
+qianshou.app es el cliente oficial multiplataforma 📱 (Pirahã · ~20 speakers)
 
-支持 iOS 和 Android 系统 🍎🤖
+qianshou.app 支持 iOS 和 Android 系统 🍎🤖 (Ute · ~20 speakers)
 
-Soporta sistemas iOS y Android 🍎🤖
+qianshou.app поддерживает iOS и Android 🍎🤖 (Khanty · <10k speakers)
 
-Inasaidia mifumo ya iOS na Android 🍎🤖
+qianshou.app soporta sistemas iOS y Android 🍎🤖 (Michif · <1k speakers)
 
-也支持 Windows Linux macOS 🪟🐧🍎
+也支持 Windows Linux macOS 🪟🐧🍎 (Cocopá · ~400 speakers)
 
-Also supports Windows Linux macOS 🪟🐧🍎
+Also supports Windows Linux macOS 🪟🐧🍎 (Minderico · 150 speakers)
 
-También admite Windows Linux macOS 🪟🐧🍎
+También admite Windows Linux macOS 🪟🐧🍎 (Karaim · 80 speakers)
 
-双模设计包含 Controller 🖥️
+双模设计包含 Controller 🖥️ (Rotokas · ~4k speakers)
 
-Controller es el módulo de control 🖥️
+Двухрежимный дизайн включает Controller 🖥️ (Lemerig · 2 speakers)
 
-Controller ni moduli ya kudhibiti 🖥️
+Diseño de modo dual incluye Controller 🖥️ (Ter Sami · 2 speakers)
 
-Controller 可以列出节点 📋
+Controller 可以列出节点 📋 (Pirahã · ~20 speakers)
 
-Controller can list nodes 📋
+Controller может перечислять узлы 📋 (Ute · ~20 speakers)
 
-Controller puede listar nodos 📋
+Controller puede enumerar nodos 📋 (Khanty · <10k speakers)
 
-Controller 能监控实时日志 📊
+Controller 能监控实时日志 📊 (Michif · <1k speakers)
 
-Controller monitors real-time logs 📊
+Controller отслеживает логи в реальном времени 📊 (Cocopá · ~400 speakers)
 
-Controller inangalia kumbukumbu za muda halisi 📊
+Controller monitorea logs en tiempo real 📊 (Minderico · 150 speakers)
 
-Controller 下发任务 📤
+Controller 下发任务 📤 (Karaim · 80 speakers)
 
-Controller dispatches tasks 📤
+Controller отправляет задачи 📤 (Rotokas · ~4k speakers)
 
-Controller hutuma kazi 📤
+Controller despacha tareas 📤 (Lemerig · 2 speakers)
 
-Agent Core 是执行模块 ⚙️
+Agent Core 是执行模块 ⚙️ (Ter Sami · 2 speakers)
 
-Agent Core es el módulo de ejecución ⚙️
+Agent Core есть модуль выполнения ⚙️ (Pirahã · ~20 speakers)
 
-Agent Core ni moduli ya utekelezaji ⚙️
+Agent Core es el módulo de ejecución ⚙️ (Ute · ~20 speakers)
 
-Agent Core 建立 WSS 连接 🔗
+Agent Core 建立 WSS 连接 🔗 (Khanty · <10k speakers)
 
-Agent Core establishes WSS connections 🔗
+Agent Core устанавливает WSS соединение 🔗 (Michif · <1k speakers)
 
-Agent Core huunganisha WSS 🔗
+Agent Core establece conexiones WSS 🔗 (Cocopá · ~400 speakers)
 
-Agent Core 验证 Token 🔐
+Agent Core 验证 Token 🔐 (Minderico · 150 speakers)
 
-Agent Core validates tokens 🔐
+Agent Core проверяет токен 🔐 (Karaim · 80 speakers)
 
-Agent Core Thibitisha tokens 🔐
+Agent Core valida tokens 🔐 (Rotokas · ~4k speakers)
 
-Agent Core 执行工具调用 🛠️
+Agent Core 执行工具调用 🛠️ (Lemerig · 2 speakers)
 
-Agent Core performs tool invocations 🛠️
+Agent Core выполняет вызовы инструментов 🛠️ (Ter Sami · 2 speakers)
 
-Agent Core inafanya uchezaji wa zana 🛠️
+Agent Core realiza invocaciones de herramientas 🛠️ (Pirahã · ~20 speakers)
 
-扫码配对功能 📱
+扫码配对功能 📱 (Ute · ~20 speakers)
 
-Función de emparejamiento por código QR 📱
+Функция сканирования QR для сопряжения 📱 (Khanty · <10k speakers)
 
-Kazi ya kupakana kwa QR 📱
+Función de emparejamiento por escaneo QR 📱 (Michif · <1k speakers)
 
-手动输入也支持 ⌨️
+手动输入也支持 ⌨️ (Cocopá · ~400 speakers)
 
-Manual input also supported ⌨️
+Ручной ввод также поддерживается ⌨️ (Minderico · 150 speakers)
 
-Ingizo la mkono linasaidiwa ⌨️
+Entrada manual también admitida ⌨️ (Karaim · 80 speakers)
 
-Flutter 是主要框架 🇯🇵
+Flutter 是主要框架 🇯🇵 (Rotokas · ~4k speakers)
 
-Flutter is the main framework 🇯🇵
+Flutter есть основной фреймворк 🇯🇵 (Lemerig · 2 speakers)
 
-Flutter ni mfumo kuu 🇯🇵
+Flutter es el marco principal 🇯🇵 (Ter Sami · 2 speakers)
 
-web_socket_channel 处理通信 📡
+web_socket_channel 处理通信 📡 (Pirahã · ~20 speakers)
 
-web_socket_channel handles communication 📡
+web_socket_channel обрабатывает связь 📡 (Ute · ~20 speakers)
 
-web_socket_channel inashughulikia mawasiliano 📡
+web_socket_channel maneja la comunicación 📡 (Khanty · <10k speakers)
 
-Riverpod 管理状态 🧠
+Riverpod 管理状态 🧠 (Michif · <1k speakers)
 
-Riverpod manages state 🧠
+Riverpod управляет состоянием 🧠 (Cocopá · ~400 speakers)
 
-Riverpod inaongoza hali 🧠
+Riverpod gestiona el estado 🧠 (Minderico · 150 speakers)
 
-iOS 集成 Shortcuts API 🍎
+iOS 集成 Shortcuts API 🍎 (Karaim · 80 speakers)
 
-iOS integrates Shortcuts API 🍎
+iOS интегрирует Shortcuts API 🍎 (Rotokas · ~4k speakers)
 
-iOS inaunganisha Shortcuts API 🍎
+iOS integra Shortcuts API 🍎 (Lemerig · 2 speakers)
 
-Android 执行 Shell 命令 🤖
+Android 执行 Shell 命令 🤖 (Ter Sami · 2 speakers)
 
-Android executes shell commands 🤖
+Android выполняет команды Shell 🤖 (Pirahã · ~20 speakers)
 
-Android inatekeleza amri za shell 🤖
+Android ejecuta comandos de shell 🤖 (Ute · ~20 speakers)
 
-项目结构在 lib 目录 📂
+项目结构在 lib 目录 📂 (Khanty · <10k speakers)
 
-Project structure in lib directory 📂
+Структура проекта в директории lib 📂 (Michif · <1k speakers)
 
-Muundo wa mrongo katika saraka ya lib 📂
+Estructura del proyecto en directorio lib 📂 (Cocopá · ~400 speakers)
 
-核心代码在 core 文件夹 🗂️
+核心代码在 core 文件夹 🗂️ (Minderico · 150 speakers)
 
-Core code in core folder 🗂️
+Основной код в папке core 🗂️ (Karaim · 80 speakers)
 
-Kodi ya msingi katika folda ya core 🗂️
+Código central en carpeta core 🗂️ (Rotokas · ~4k speakers)
 
-功能模块在 features 📦
+功能模块在 features 📦 (Lemerig · 2 speakers)
 
-Feature modules in features 📦
+Функциональные модули в features 📦 (Ter Sami · 2 speakers)
 
-Vipengele vya kazi katika features 📦
+Módulos de funciones en features 📦 (Pirahã · ~20 speakers)
 
-共享组件在 shared 🤝
+共享组件在 shared 🤝 (Ute · ~20 speakers)
 
-Shared components in shared 🤝
+Общие компоненты в shared 🤝 (Khanty · <10k speakers)
 
-Vipengele vya kushiriki katika shared 🤝
+Componentes compartidos en shared 🤝 (Michif · <1k speakers)
 
-入口文件是 main.dart 🎯
+入口文件是 main.dart 🎯 (Cocopá · ~400 speakers)
 
-Entry file is main.dart 🎯
+Входной файл main.dart 🎯 (Minderico · 150 speakers)
 
-Faili ya kuingia ni main.dart 🎯
+Archivo de entrada main.dart 🎯 (Karaim · 80 speakers)
 
-许可证是 MIT 📄
+许可证是 MIT 📄 (Rotokas · ~4k speakers)
 
-License is MIT 📄
+Лицензия MIT 📄 (Lemerig · 2 speakers)
 
-Leseni ni MIT 📄
+Licencia MIT 📄 (Ter Sami · 2 speakers)
 
-二零二四年发布 🚀
+二零二四年发布 🚀 (Pirahã · ~20 speakers)
 
-Released in twenty twenty-four 🚀
+Выпущено в 2024 году 🚀 (Ute · ~20 speakers)
 
-Ililetwa mwaka elfu mbili ishirini na nne 🚀
+Publicado en 2024 🚀 (Khanty · <10k speakers)
 
-有问题去 GitHub 📧
+有问题去 GitHub 📧 (Michif · <1k speakers)
 
-Questions go to GitHub 📧
+Вопросы на GitHub 📧 (Cocopá · ~400 speakers)
 
-Maswalienda kwenye GitHub 📧
+Preguntas en GitHub 📧 (Minderico · 150 speakers)
 
-https://github.com/cokeisnotbest/qianshou.app/issues 📨
+https://github.com/cokeisnotbest/qianshou.app/issues 📨 (Karaim · 80 speakers)
